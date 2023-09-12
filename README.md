@@ -1,3 +1,3 @@
 ## Clickhouse demo
 
-Just simple example of using clickhouse + umzug in NestJS application
+A basic example demonstrating the integration of ClickHouse and Umzug within a NestJS application.
